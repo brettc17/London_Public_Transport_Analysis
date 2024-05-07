@@ -32,7 +32,5 @@ The comprehensive examination of public transport data provides valuable insight
 ## Usage
 To replicate the analysis, clone the repository and execute the SQL queries in a Snowflake environment. The Jupyter Notebook can be run to reproduce the analysis steps.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 
